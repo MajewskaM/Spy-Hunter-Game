@@ -1085,7 +1085,7 @@ void drawTable(SDL_Surface* screen, SDL_Surface* charset, gameInfo game, colors 
     drawRectangle(screen, NONE, NONE, SCREEN_WIDTH, TABLE_HEIGHT, var.yellow, var.orange);
 
     //print text to screen with given charset
-    sprintf(text, "Martyna Majewska, 193360");
+    sprintf(text, "Spy-Hunter-Game");
     //center of the screen
     drawString(screen, screen->w / 2 - strlen(text) * BITS / 2, distanceY, text, charset);
 
