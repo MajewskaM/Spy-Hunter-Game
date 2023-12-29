@@ -1,0 +1,56 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (szablon2vs17.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(447,70): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(448,70): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(582,121): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(586,121): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(590,121): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(594,121): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(598,121): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(581,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(585,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(589,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(593,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(597,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(654,27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(656,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(681,26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(683,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(721,126): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(736,119): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(742,126): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(728,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(729,18): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(732,39): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(733,18): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(741,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(814,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(815,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1090,89): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1100,93): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1105,110): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1109,104): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1088,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1093,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1098,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1103,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1107,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1139,19): warning C4244: "-=": konwersja z "double" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1146,34): warning C4244: "-=": konwersja z "double" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1160,15): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1403,21): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1404,21): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1405,21): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1455,22): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1463,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1464,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1467,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1473,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1527,104): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1522,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1526,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1654,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1655,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(1658,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\main.cpp(877): warning C4715: "loadingGameScreen”: niewszystkie ścieżki kodu zwracają wartość
+  szablon2vs19.vcxproj -> D:\Studia\GitHub\Spy-Hunter\spy-hunter-vs\x64\Debug\szablon2vs19.exe
