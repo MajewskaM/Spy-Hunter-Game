@@ -8,6 +8,8 @@ The assignment is accompanied by a template in which the following functionality
 • drawing a pixel, line, rectangle;</br>
 • text display.</br>
 
+<img width="478" alt="gameplay" src="https://github.com/MajewskaM/Spy-Hunter-Game/assets/115587236/662096ef-068e-4497-b27d-f911fa01a008">
+
 ## Remarks
 **The use of the STL libary is prohibited.**
 
@@ -23,6 +25,8 @@ The assignment is accompanied by a template in which the following functionality
 • _**p:**_ pause/continue;</br>
 • _**space:**_ shooting;</br>
 • _**f:**_ finish the game.</br>
+
+<img width="481" alt="top1" src="https://github.com/MajewskaM/Spy-Hunter-Game/assets/115587236/923444df-3807-4fcb-8b9b-a5ae7c5822e9">
 
 </br> --------------------------------------------------------------------------------------------------------------------- </br>
 
